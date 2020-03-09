@@ -1,0 +1,12 @@
+.select-game.MuiContainer-root {
+  flex-direction: column;
+  
+  h1 {
+    text-align: center;
+  }
+
+  .MuiButtonBase-root {
+    display: block;
+    margin: 15px auto;
+  }
+}
